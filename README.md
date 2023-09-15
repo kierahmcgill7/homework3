@@ -1,5 +1,6 @@
 # homework3
 // Chapter 3 & 4 notes
+
 // Java enforces strong typing, meaning variables must hold values appropriate to their data type.
 
 Attempting "Rabbit hopper = new Giraffe()" won't work because there's no inherent relationship between them. However, if Rabbit and Giraffe are subclasses of Animals, we can use "Animal hopper = new Rabbit()" because Rabbit is a subclass of Animal.
