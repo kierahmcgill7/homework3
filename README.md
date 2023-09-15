@@ -1,5 +1,5 @@
 # homework3
-// Chapter 3 & 4 notes
+// Chapter 3 & 4 notes //
 
 // Java enforces strong typing, meaning variables must hold values appropriate to their data type.
 
